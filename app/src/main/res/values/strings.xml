@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Spinner</string>
+    <string name="title">Title</string>
+    <string-array name="test_array">
+        <item>Hieu</item>
+        <item>Thao</item>
+        <item>Thuong</item>
+    </string-array>
+</resources>
